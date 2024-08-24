@@ -9,4 +9,6 @@ const countProducts = async () => {
   return await JSON.parse(product).length;
 };
 
+export default countProducts;
+
 console.log('count:', await countProducts());
