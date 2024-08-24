@@ -2,9 +2,11 @@
   "name": "nodejs-lession-1",
   "version": "1.0.0",
   "description": "1. Створіть новий командний репозиторій на [github.com](http://github.com),\r    оберіть `.gitignore` (node).\r 2. Додайте до нього у колаборатори усіх студентів вашої групи.\r 3. Додайте захист на гілку `main` \"Require a pull request before merging\" і\r    увімкніть опцію \"Automatically delete head branches\".\r 4. Склонуйте його собі на локальний комп'ютер.\r 5. Створіть свою гілку із гілки `main` та продовжуйте в ній виконувати це\r    завдання.\r 6. Виконайте стартові налаштування вашого проєкту:",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "node src/scripts/generateProducts.js"
   },
   "keywords": [],
   "author": "",
