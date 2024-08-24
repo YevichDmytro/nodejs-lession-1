@@ -34,5 +34,11 @@
     "price": "706.00",
     "category": "Shoes",
     "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart"
+  },
+  {
+    "name": "Bespoke Steel Bike",
+    "price": "893.00",
+    "category": "Electronics",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality"
   }
 ]
